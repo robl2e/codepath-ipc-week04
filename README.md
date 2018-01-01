@@ -12,3 +12,15 @@ Problems:
 * LetterPhone
 * NumberOf1Bits
 * SingleNumber
+
+# Assignment 4
+
+## GIF Walkthrough
+
+<img src='https://i.imgur.com/FdQapYF.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+
+Problems:
+* PalindromePartitioning
+* Permuation
+* MinXORValue
+* ReverseBits
